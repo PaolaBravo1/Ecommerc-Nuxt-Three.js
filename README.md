@@ -1,18 +1,10 @@
 <p align="center">
-  <a href="https://www.meilisearch.com/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://github.com/meilisearch/meilisearch/blob/main/assets/logo.svg" alt="Meilisearch" width="200" height="200" />
   </a>
 </p>
 
-<h1 align="center">Meilisearch Nuxt 3 ecommerce demo</h1>
-
-<h4 align="center">
-  <a href="https://www.meilisearch.com/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme">Website</a> |
-  <a href="https://www.meilisearch.com/pricing?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme">Meilisearch Cloud</a> |
-  <a href="https://blog.meilisearch.com/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme">Blog</a> |
-  <a href="https://www.meilisearch.com/docs/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme">Documentation</a> |
-  <a href="https://discord.meilisearch.com/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme">Discord</a>
-</h4>
+<h1 align="center">WebGL Three.js Nuxt 3 ecommerce demo</h1>
 
 <p align="center">
   <a href="https://github.com/meilisearch/demo-movies/blob/main/LICENCE"><img src="https://img.shields.io/badge/license-MIT-informational" alt="License"></a>
@@ -21,7 +13,7 @@
 
 ## 💪 Looking to build this yourself?
 
-Read our [Step by step guide to adding site search to your Nuxt ecommerce](https://blog.meilisearch.com/nuxt-ecommerce-search-guide/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme)!
+Read our [Step by step guide to adding site search to your Nuxt ecommerce]!
 
 ## 🧰 Stack
 
@@ -32,7 +24,7 @@ This project requires:
 - [Nuxt 3](https://nuxt.com) — Web application framework based on [Vue 3](https://vuejs.org/)
 - [Meilisearch](https://meilisearch.com/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme) — Fast, relevant search engine
 
-This projects uses icons from [Heroicons](https://heroicons.com/) and social medias icons from [icons8](https://icons8.com/icons/collections/EnE9mEHAiX2D).
+This projects uses icons from [Heroicons] and social medias icons from [icons8](https://icons8.com/icons/collections/EnE9mEHAiX2D).
 
 ## 🛠️ Setup
 
@@ -49,7 +41,7 @@ yarn install
 
 ### Environment
 
-Environment variables should hold your Meilisearch database credentials. The easiest way to launch a database is to [create a free project](https://cloud.meilisearch.com/utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme) on Meilisearch Cloud. Alternatively, you can read [local installation](https://www.meilisearch.com/docs/learn/getting_started/installation?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=readme#local-installation) documentation for self-hosted options.
+Environment variables should hold your Meilisearch database credentials. The easiest way to launch a database is to [create a free project] on Meilisearch Cloud. Alternatively, you can read [local installation] documentation for self-hosted options.
 
 This project loads environment variables from an `.env` file. You can duplicate the existing `.env.example` file and rename it as `.env`. Update the content of the file to match your credentials.
 
@@ -66,7 +58,7 @@ TWICPICS_DOMAIN=https://meilisearch-ecommerce.twic.pics
 STORYBOOK_TWICPICS_DOMAIN=https://meilisearch-ecommerce.twic.pics
 ```
 
-> This application uses [TwicPics](https://twicpics.com/) to deliver optimized images. You don’t need to update the related environment variables. 
+> This application uses [TwicPics] to deliver optimized images. You don’t need to update the related environment variables. 
 
 ### Database
 
@@ -101,7 +93,7 @@ Locally preview production build:
 yarn preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Check out the [deployment documentation] for more information.
 
 ## ✨ Storybook
 
